@@ -76,17 +76,16 @@ The model achieves the following approximate performance metrics on the validati
 ## Output Screenshots
 
 ### Screenshot 1
-![App UI](<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c6cfeb16-4ce7-45c5-833f-31aeeaa7737f" />
-)
+![App UI]
+<img width="1920" height="1031" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/92cffa06-ab83-4d62-a075-c677ca458499" />
 
 ### Screenshot 2 
-![Actual Image Uploading ](<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/cd2dac4b-54f4-4f7e-8e26-1216fc4486ee" />
-)
-
+![Actual Image Uploading ]
+<img width="1920" height="1032" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/0b99982a-82ba-4e92-999c-96694e274245" />
 
 ### Screenshot 3 
-![Prediction Image](<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/c13db184-1e8d-4cbf-9016-6615155669b4" />
-)
+![Prediction Image]
+<img width="1920" height="1028" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2a171056-4741-41e7-af33-b389a8e1453b" />
 
 ## Author
 
